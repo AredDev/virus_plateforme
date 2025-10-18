@@ -9,7 +9,7 @@ import netflix from "../assets/images/Toshiba_logo.svg";
 
 export default function Accueill() {
   return (
-    <section className="relative overflow-hidden mt-14 text-white">
+    <section className="relative overflow-hidden mt-14 text-white mb-[-80px]">
       {/* Contenu principal */}
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen px-4 py-20 text-center">
         {/* Texte du haut */}
@@ -37,7 +37,7 @@ export default function Accueill() {
         </div>
 
         {/* Bouton */}
-        <button className="bg-[#5b4a9d] hover:bg-[#6b5aad] text-white font-semibold px-8 py-4 rounded-full text-lg transition-colors duration-200 mb-[-80px] cursor-pointer">
+        <button className="bg-[#5b4a9d] hover:bg-[#6b5aad] text-white font-semibold px-8 py-4 cursor-pointer rounded-full text-lg transition-colors duration-200 mb-[-80px]">
           Consulter la cartes
         </button>
 
