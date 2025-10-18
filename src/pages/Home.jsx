@@ -1,6 +1,8 @@
 import Accueill from "../components/Accueill";
 import Footer from "../components/Footer";
+import MapSection from "../components/MapSection";
 import Navbar from "../components/Nav";
+import TrendingSection from "../components/TredingSection";
 
 const Home = () => {
   return (
@@ -18,6 +20,8 @@ const Home = () => {
       {/* Section principale */}
       <main className="">
         <Accueill />
+        <MapSection />
+        <TrendingSection />
       </main>
 
       {/* Pied de page */}

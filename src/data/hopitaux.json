@@ -1,0 +1,17 @@
+[
+  {
+    "name": "HJRA - Hôpital Joseph Ravoahangy Andrianavalona",
+    "bounds": [[-18.9068, 47.5265], [-18.9048, 47.5285]],
+    "center": [-18.9058, 47.5275]
+  },
+  {
+    "name": "Hôpital Befelatanana",
+    "bounds": [[-18.9105, 47.529], [-18.909, 47.5308]],
+    "center": [-18.9098, 47.5299]
+  },
+  {
+    "name": "Hôpital Militaire Soavinandriana (HOMI)",
+    "bounds": [[-18.9058, 47.519], [-18.9042, 47.521]],
+    "center": [-18.905, 47.520]
+  }
+]
