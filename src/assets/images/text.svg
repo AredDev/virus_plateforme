@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="302" height="48" viewBox="0 0 302 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.01" y1="0.557" x2="1.016" y2="0.574" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb13b" stop-opacity="0"/>
+      <stop offset="0.494" stop-color="#dc921f"/>
+      <stop offset="1" stop-color="#80591e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_6729" data-name="Groupe 6729" transform="translate(-766 -600)">
+    <rect id="Rectangle_1323" data-name="Rectangle 1323" width="302" height="48" transform="translate(766 600)" opacity="0.14" fill="url(#linear-gradient)"/>
+    <text id="One_fixed_price_to_ge" data-name="One fixed price to ge" transform="translate(917 634)" fill="#fcc33e" font-size="27" font-family="Poppins-Regular, Poppins"><tspan x="-138.861" y="0">One fixed price to ge</tspan></text>
+  </g>
+</svg>
